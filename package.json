@@ -1,0 +1,13 @@
+{
+  "name": "primasense",
+  "version": "0.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
+
+
+Available dependencies: firebase-tools, turbo, typescript
+
+@tanstack/react-query: ^5.8.3

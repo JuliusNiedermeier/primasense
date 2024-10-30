@@ -1,0 +1,9 @@
+*.secret.*
+.env*
+
+__pycache__
+venv
+
+.next
+.turbo
+dist

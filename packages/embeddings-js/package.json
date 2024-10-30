@@ -1,0 +1,9 @@
+{
+  "name": "@primasense/embeddings-js",
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "valibot": "^0.17.1"
+  }
+}
